@@ -1,5 +1,7 @@
 # Y2K-MUSIC-PLAYER
 <img src="https://img.shields.io/badge/hackatime-1h%2043m-blue">
+<img src="[https://img.shields.io/badge/hackatime-1h%2043m-blue](https://github-readme-stats.hackclub.dev/api/wakatime?username=33335&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)">
 I have always been excited by 2000s music players like the iPod or Winamp, so I decided to build a simple Y2K music player in LOVE2D in Lua.  The code isn’t anything special, just a simple code, but I think you would like it. I’m still working on some new features, which I will release in the next update.
 
 ## Run it
