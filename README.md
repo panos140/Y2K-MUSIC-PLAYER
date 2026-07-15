@@ -24,6 +24,11 @@ I have always been excited by 2000s music players like the iPod or Winamp, so I 
 | Seek | Click anywhere on the green progress bar |
 | Pick a song | Click it in the playlist, or scroll with your mouse wheel |
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/panos140/Y2K-MUSIC-PLAYER/refs/heads/main/screenshot2.png">
+<img src="https://raw.githubusercontent.com/panos140/Y2K-MUSIC-PLAYER/refs/heads/main/screenshot1.png">
+
 ## Files
 
 - `main.lua` — all the UI drawing + playback logic (single file, heavily commented)
