@@ -1,0 +1,2 @@
+Drop .mp3, .ogg, or .wav files in this folder, then run the player.
+You can delete this text file — it's just here so the folder isn't empty in the zip.
