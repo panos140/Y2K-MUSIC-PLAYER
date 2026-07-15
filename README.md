@@ -6,11 +6,12 @@ I have always been excited by 2000s music players like the iPod or Winamp, so I 
 ## Run it
 
 1. Install [LÖVE2D](https://love2d.org/) (11.x). It's free, tiny, and works on Mac/Windows/Linux.
-2. Drop some `.mp3`, `.ogg`, or `.wav` files into the `music/` folder.
-3. Run it:
+2. Unzip the zip file to you desired destination.
+3. Drop some `.mp3`, `.ogg`, or `.wav` files into the `music/` folder.
+4. Run it:
    - **Mac/Linux:** `love .` from inside this folder (or drag the folder onto the LÖVE app)
-   - **Windows:** drag this whole folder onto `love.exe`, or run `love.exe .` from a terminal
-4. If you don't add any songs, the player still runs — the screen will just tell you to drop some in.
+   - **Windows:** `WIN + R` then `cmd` and paste this `"C:\Program Files\LOVE\love.exe" "C:\path\to\your\project\folder"` change the path that you installed the zip
+5. If you don't add any songs, the player still runs — the screen will just tell you to drop some in.
 
 ## Controls
 
