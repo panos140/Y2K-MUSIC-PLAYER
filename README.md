@@ -1,5 +1,7 @@
 # Y2K-MUSIC-PLAYER
-<a href="https://wakatime.com/@f81fa566-77e2-46b8-acdf-ed6fdc96c621"><img src="https://wakatime.com/badge/user/f81fa566-77e2-46b8-acdf-ed6fdc96c621.svg" alt="Total time coded since Jun 12 2026" /></a>
+
+[![wakatime](https://wakatime.com/badge/user/f81fa566-77e2-46b8-acdf-ed6fdc96c621.svg)](https://wakatime.com/@f81fa566-77e2-46b8-acdf-ed6fdc96c621)
+
 I have always been excited by 2000s music players like the iPod or Winamp, so I decided to build a simple Y2K music player in LOVE2D in Lua.  The code isn’t anything special, just a simple code, but I think you would like it. I’m still working on some new features, which I will release in the next update.
 
 ## Run it
